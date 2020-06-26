@@ -1,1 +1,0 @@
-# Geely-Auto-Linear-Regression
